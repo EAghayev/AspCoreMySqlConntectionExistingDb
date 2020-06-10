@@ -132,3 +132,4 @@ C:\Users\Eagha\Source\Repos\TechlandMysqlMigrateApi\TechlandMysqlMigrateApi\bin\
 C:\Users\Eagha\Source\Repos\TechlandMysqlMigrateApi\TechlandMysqlMigrateApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Eagha\Source\Repos\TechlandMysqlMigrateApi\TechlandMysqlMigrateApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Eagha\Source\Repos\TechlandMysqlMigrateApi\TechlandMysqlMigrateApi\obj\Debug\netcoreapp3.1\TechlandMysqlMigrateApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eagha\Source\Repos\TechlandMysqlMigrateApi\TechlandMysqlMigrateApi\obj\Debug\netcoreapp3.1\TechlandMysqlMigrateApi.csprojAssemblyReference.cache
